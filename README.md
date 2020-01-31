@@ -2,7 +2,7 @@
 Arch DevOps coding challenge
 
 This repository contains my resolution for the challange that Michael Fritzius presented to me, and I came up with two
-approaches that easy to spot from the .feature file:
+approaches detailed on the .feature file:
 
  - The first one is a BDD approach that works perfectly, you must change the variables on the "my_steps.rb" on the lines 9,
   12,25 and 33 respectively.
